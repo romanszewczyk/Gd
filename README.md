@@ -72,7 +72,7 @@ measurement system is not the factor limiting the analysis.
   hysteresisgraph_accuracy.md  accuracy of the measurement system and its GUM reading
   results/json/                committed uncertainty results
 CODE_REVIEW.md                 step-by-step verification record of this final version
-CITATION.cff                   citation metadata for this archive (DOI added on registration)
+CITATION.cff                   citation metadata (DOI 10.5281/zenodo.21431501)
 ```
 
 ## Installation
@@ -219,8 +219,9 @@ final version.
 
 ## Citation
 
-Citation metadata for this archive is in `CITATION.cff` (the archive DOI is
-added there upon registration). To cite the analysis itself, cite the
+This archive is registered as DOI
+[10.5281/zenodo.21431501](https://doi.org/10.5281/zenodo.21431501); citation
+metadata is in `CITATION.cff`. To cite the analysis itself, cite the
 accompanying manuscript:
 
 ```bibtex

@@ -18,7 +18,7 @@ authors:
 version: 1.0.0
 date-released: '2026-07-18'
 license: MIT
-# doi: to be added upon DOI registration of this frozen archive
+doi: 10.5281/zenodo.21431501
 abstract: >-
   Code and data for the Jiles-Atherton analysis of magnetic hysteresis in
   polycrystalline gadolinium across its ferromagnetic range: twelve major
