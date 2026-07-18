@@ -1,0 +1,4 @@
+quantity,unit,value,u_calibration,u_identifiability,u_combined,rel_combined
+Ms0,MA/m,2.1391,0.001639,0.07701,0.07703,0.0360
+Tc,K,291.48,0.00312,0.7292,0.7292,0.0025
+beta,-,0.28071,0.0001194,0.01867,0.01867,0.0665

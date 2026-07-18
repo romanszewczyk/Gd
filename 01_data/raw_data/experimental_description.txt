@@ -1,0 +1,14 @@
+Gadolinium Hysteresis Measurements
+====================================
+
+Temperatures and frequencies are indicated in the filenames.
+Magnetizing fields: 400 to 55000 A/m (25 amplitudes).
+Measurement frequency: 3 Hz.
+Temperature range: -38°C to +15°C (12 temperatures).
+
+Each measurement directory contains B(H) hysteresis loop data.
+Two file variants exist:
+  - Files without "u(H)" suffix contain the main measurement data
+  - Files with "u(H)" suffix contain uncertainty data
+
+Data source: Dr. Michał Nowicki.

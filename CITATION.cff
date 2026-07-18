@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+message: >-
+  If you use this code or data, please cite this archive and the
+  accompanying manuscript (see README.md, section Citation).
+type: software
+title: >-
+  Temperature-dependent Jiles-Atherton model of gadolinium: analysis code,
+  hysteresis-loop data and GUM uncertainty assessment
+authors:
+  - family-names: Szewczyk
+    given-names: Roman
+    affiliation: Systems Research Institute, Polish Academy of Sciences
+  - family-names: Nowicki
+    given-names: Michal
+    affiliation: >-
+      Institute of Metrology and Measurement Systems, Warsaw University of
+      Technology
+version: 1.0.0
+date-released: '2026-07-18'
+license: MIT
+# doi: to be added upon DOI registration of this frozen archive
+abstract: >-
+  Code and data for the Jiles-Atherton analysis of magnetic hysteresis in
+  polycrystalline gadolinium across its ferromagnetic range: twelve major
+  B(H) loops measured from -38 to +15 degrees C, described by one set of
+  smooth, physically interpretable temperature laws, with a GUM-compliant
+  uncertainty assessment. Accompanies the manuscript "Magnetization scaling
+  and collapse of the pinning energy scale in gadolinium approaching the
+  Curie point" submitted to Physica B: Condensed Matter.
+keywords:
+  - gadolinium
+  - magnetic hysteresis
+  - Jiles-Atherton model
+  - Curie transition
+  - critical scaling
+  - measurement uncertainty
